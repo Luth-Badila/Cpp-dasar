@@ -1,0 +1,32 @@
+# Ignore compiled object files
+*.o
+*.obj
+
+# Ignore executable files
+*.exe
+*.out
+*.app
+
+# Ignore libraries
+*.lib
+*.a
+*.so
+*.dll
+*.dylib
+
+# Ignore Code::Blocks build folders
+bin/
+obj/
+
+# Ignore Code::Blocks workspace & layout files
+*.depend
+*.layout
+
+# Ignore backup files
+*~
+*.bak
+*.swp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
